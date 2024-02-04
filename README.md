@@ -1,9 +1,9 @@
-This is a Blog website. For the front end, I have used React + Vite; for the back end, I have used Node.js,  express, and MongoDB (for storage).
-The starting login and registration page is also there.
-I  have implemented authentication and authorization using JWT.
-Users can create, upload, and read the post.
-For writing a blog I have implemented an editor where users can write titles, and content summary and can upload image for the blog.
-I have implemented a feature in which the user who has posted the blog can only edit the post. Other users can only view and click on the blog.
+1. This is a Blog website. For the front end, I have used React + Vite; for the back end, I have used Node.js,  express, and MongoDB (for storage).
+2. The starting login and registration page is also there.
+3. I  have implemented authentication and authorization using JWT.
+4. Users can create, upload, and read the post.
+5. For writing a blog I have implemented an editor where users can write titles, and content summary and can upload image for the blog.
+6. I have implemented a feature in which the user who has posted the blog can only edit the post. Other users can only view and click on the blog.
 
 ![Screenshot (265)](https://github.com/rajeeb12/Let-s-Blog/assets/41242706/4015ed34-24d2-4892-a77f-b3da4a7d52b8)
 ![Screenshot (266)](https://github.com/rajeeb12/Let-s-Blog/assets/41242706/0cb9f0d4-ee4e-4f1b-8075-ca16d5d6d254)
